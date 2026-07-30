@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","563","test_Login_with_valid_prod[HP3]","tests","2026-07-29","passed","2026-07-29","","test_Login","",""
+"","955","test_Register_with_valid_prod[HP3]","tests","2026-07-29","passed","2026-07-29","","test_Register","",""
+"","370","test_search_with_valid_prod[HP3]","tests","2026-07-29","passed","2026-07-29","","test_Search","",""
