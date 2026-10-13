@@ -7,7 +7,7 @@ search_button = '//*[@id="search"]/span/button'
 result_prod = "//a[normalize-space()='HP LP3065']"
 
 
-
+#cdjddsdsjfjfvfv
 def Reg_product(driver,val):
     driver.find_element(By.XPATH, search_field).send_keys(val)
     driver.find_element(By.XPATH, search_button).click()
